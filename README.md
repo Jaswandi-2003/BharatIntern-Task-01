@@ -1,1 +1,4 @@
-# BharatIntern-Task-02
+# BharatIntern-Task-01
+Create a portfolio website made up of HTML,
+CSS telling about you and your
+accomplishments.
